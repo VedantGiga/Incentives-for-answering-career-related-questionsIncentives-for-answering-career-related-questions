@@ -5,6 +5,8 @@ This project provides a blockchain-based platform that incentivizes individuals 
 
 ## Contract Address
 0x59b4f02976304B68cA0e3F00ccB874b35E897a9d
+![image](https://github.com/user-attachments/assets/3c0931a6-e36d-4770-9dc1-d6cac33b2d05)
+
 
 ## Project Vision
 The vision of this project is to create a decentralized knowledge-sharing platform that empowers individuals to seek and share career advice while being fairly rewarded for their contributions.
